@@ -17,4 +17,5 @@ my_array.append('hello', 1)
 print(my_array)
 hello world i am from local area
 
+hello i am from remote area
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
