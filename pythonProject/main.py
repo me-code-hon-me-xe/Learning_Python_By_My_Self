@@ -15,5 +15,6 @@ if __name__ == '__main__':
 my_array = []
 my_array.append('hello', 1)
 print(my_array)
+hello world i am from local area
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
